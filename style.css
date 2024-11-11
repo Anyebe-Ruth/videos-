@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+  background: #000000;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+h1{
+  color: #ff0000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ 
+}
+
+
+span{
+  color: #ffffff;
+}
+
+
+.text1{
+  color: #fff599;
+  
+}
+
+span{
+  color: #ffffff;
+}
+
+.product{
+  color: #fff599;
+}
+
+h2{
+  color: #ff0000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+ 
+.submit{
+  color: #ffffff;
+  background: #ff0000;
+  margin: 100px;
+ border-radius: 30px;
+ padding: 10px;
+}
+
+
+  
+  
+  
